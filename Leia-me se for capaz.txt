@@ -1,1 +1,5 @@
 Isto é apenas um arquivo de teste 
+
+Funcionou, o arquivo foi clonado com sucesso !!!
+
+obs.: Isto não é mais um arquivo de teste(Teste executado com sucesso).
