@@ -7,7 +7,7 @@ int main(){
 
     int n1;
 
-    printf("Escreva um número: ");
+    printf("Escreva um número inteiro: ");
     scanf("%d", &n1);
 
     printf("\nParabéns você digitou o número: %d\n",n1);
