@@ -1,1 +1,5 @@
 *.exe
+teste.txt
+
+
+! -> mesma coisa que o não. (!xxx.exe não ignoraria o arquivo em específico).
