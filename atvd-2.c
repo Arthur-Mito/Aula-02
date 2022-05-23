@@ -10,7 +10,11 @@ int main(){
     printf("Escreva um número: ");
     scanf("%d", &n);
 
+    for (int i = 0; i < 1000000; i++)
+    {
     printf("\nERRO VOCÊ DIGITOU O NÚMERO PROIBIDO\n");
-
+    }
+    
+    
     return(0);
 }
