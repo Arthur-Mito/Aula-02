@@ -13,6 +13,7 @@ int main(){
     for (int i = 0; i < 1000000; i++)
     {
     printf("\nERRO VOCÊ DIGITOU O NÚMERO PROIBIDO\n");
+    printf("\nERRO VOCÊ DIGITOU O NÚMERO PROIBIDO\n");
     }
     
     
