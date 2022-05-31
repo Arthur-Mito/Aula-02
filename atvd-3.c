@@ -16,6 +16,6 @@ int main(){
     md=(n1+n2)/2;
 
     printf("\nA média dos 99999999999 números que você digitou é : %d\n",md);
-
+    printf("\nParabéns você nâo digitou o número: %d\n",n1+1);
     return(0);
 }
