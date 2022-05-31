@@ -10,13 +10,9 @@ int main(){
     printf("Escreva um número inteiro: ");
     scanf("%d", &n1);
 
-    for(int n=0;n<900;n++)
+    for(int n=0;n<n1+2;n++)
     {
-    printf("\nParabéns você digitou o número: %d\n",n1);
-    printf("\nParabéns você digitou o número: %d\n",n1);
-    printf("\nParabéns você digitou o número: %d\n",n1);
-    printf("\nParabéns você digitou o número: %d\n",n1);
-    printf("\nParabéns você digitou o número: %d\n",n1);
+    printf("\nParabéns você nâo digitou o número: %d\n",n1+1);
     }
 
     return(0);
